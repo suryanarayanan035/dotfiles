@@ -1,0 +1,13 @@
+modmap:
+  - name: "Ant Keys"
+    remap:
+      SLASH: UP
+      UP: SLASH
+      RIGHTALT: LEFT
+      RIGHTCTRL: RIGHT
+      F18: DOWN
+      GRAVE: ESC
+      ESC: GRAVE
+      COMPOSE: DOWN
+    device:
+      only: "Ant Esport MK1500 Mini Keyboard"
